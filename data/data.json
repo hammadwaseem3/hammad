@@ -1,0 +1,38 @@
+[
+    {
+        "type":"Condo",
+        "price":22000,
+        "address":"213 Grove Street",
+        "description":"Excellent place, really nice view!",
+        "details":{
+            "bedrooms":2,
+            "bathrooms":1.5,
+            "area":921
+        },
+        "image":"crib-1"
+    },
+    {
+        "type":"House",
+        "price":41000,
+        "address":"7823 Winding way",
+        "description":"Excellent place,Beautifull!",
+        "details":{
+            "bedrooms":3,
+            "bathrooms":2.5,
+            "area":911
+        },
+        "image":"crib-1"
+    },
+    {
+        "type":"Duplex",
+        "price":39000,
+        "address":"12 River Street",
+        "description":"Great neighbourhood, really nice view!",
+        "details":{
+            "bedrooms":5,
+            "bathrooms":4.5,
+            "area":671
+        },
+        "image":"crib-1"
+    }
+]
